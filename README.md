@@ -1,7 +1,5 @@
 # book-store-project
 
-Automated tests in Python
-
 This repository contains automated tests for the Book Store project. The tests are implemented in Python using the Selenium framework to automate web browser interactions. The project was developed as part of a course on software testing.
 
 ## Installation
